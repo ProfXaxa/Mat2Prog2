@@ -84,7 +84,10 @@ body {
     color: var(--verde);
     text-transform: uppercase;
 }
-
+.contador{
+    font-size: 20px;
+    text-align: center;
+}
 
 @media screen and (min-width: 768px) {
     .botoes {
