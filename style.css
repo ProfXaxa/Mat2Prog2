@@ -92,6 +92,15 @@ body {
     padding: 0 16px;
     text-align: center;
 }
+.contador-digito-numero{
+    font-size: 80px;
+    margin: 0;
+}
+.contador-digito-texto{
+    color: var(--verde);
+    font-size: 20px;
+    margin: 0;
+}
 
 
 
